@@ -1,0 +1,9 @@
+Recommended parameter settings：
+Grey_Threshold1=90
+Canny_upThreshold=180
+Canny_downThreshilod=25
+Seed_number=20000
+Delete_farSeed=0.075
+Delete_nearSeed=0075
+Delete_maxOutline=400
+Delete_maxSand=1000
